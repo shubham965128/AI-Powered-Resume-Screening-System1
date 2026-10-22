@@ -1,0 +1,98 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1335 >>
+stream
+BT
+/F2 16 Tf
+50 750 Td
+(Rohan Verma - Cloud & DevOps Engineer) Tj
+ET
+BT
+/F2 12 Tf
+50 725 Td
+(Contact Information) Tj
+ET
+BT
+/F1 10 Tf
+60 707 Td
+(Email: rohan.verma@techmail.com) Tj
+0 -14 Td
+(Phone: +91 97654 32109) Tj
+0 -14 Td
+(Location: Hyderabad, India) Tj
+ET
+BT
+/F2 12 Tf
+50 653 Td
+(Education) Tj
+ET
+BT
+/F1 10 Tf
+60 635 Td
+(B.Tech in Computer Science - NIT Warangal \(CGPA: 8.4/10\)) Tj
+0 -14 Td
+(Year of Graduation: 2024) Tj
+0 -14 Td
+(Certification: AWS Certified Solutions Architect Associate) Tj
+ET
+BT
+/F2 12 Tf
+50 581 Td
+(Technical Skills) Tj
+ET
+BT
+/F1 10 Tf
+60 563 Td
+(Cloud Platforms: Amazon Web Services \(AWS\), Microsoft Azure, Google Cloud Platform \(GCP\)) Tj
+0 -14 Td
+(DevOps & Containers: Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions) Tj
+0 -14 Td
+(Scripting & OS: Python, Bash, Shell Scripting, Linux \(Ubuntu, CentOS\)) Tj
+0 -14 Td
+(Monitoring & Security: Prometheus, Grafana, ELK Stack, Nginx, Git, CI/CD) Tj
+ET
+BT
+/F2 12 Tf
+50 495 Td
+(Experience & Projects) Tj
+ET
+BT
+/F1 10 Tf
+60 477 Td
+(Kubernetes Cluster Deployment: Managed multi-node microservices deployment with automated scaling.) Tj
+0 -14 Td
+(Infrastructure as Code \(IaC\): Provisioned multi-region AWS cloud VPC using Terraform.) Tj
+0 -14 Td
+(Automated CI/CD Pipeline: Built GitHub Actions pipeline reducing deployment time by 45%.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001638 00000 n 
+0000001708 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1783
+%%EOF

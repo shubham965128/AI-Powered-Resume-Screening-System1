@@ -1,0 +1,100 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1407 >>
+stream
+BT
+/F2 16 Tf
+50 750 Td
+(Aarav Sharma - Machine Learning Engineer) Tj
+ET
+BT
+/F2 12 Tf
+50 725 Td
+(Contact Information) Tj
+ET
+BT
+/F1 10 Tf
+60 707 Td
+(Email: aarav.sharma@email.com) Tj
+0 -14 Td
+(Phone: +91 98765 43210) Tj
+0 -14 Td
+(LinkedIn: linkedin.com/in/aarav-sharma-ml) Tj
+0 -14 Td
+(Location: Bangalore, India) Tj
+ET
+BT
+/F2 12 Tf
+50 639 Td
+(Education) Tj
+ET
+BT
+/F1 10 Tf
+60 621 Td
+(B.Tech in Computer Science and Engineering - IIT Madras \(CGPA: 8.9/10\)) Tj
+0 -14 Td
+(Year of Graduation: 2024) Tj
+0 -14 Td
+(Relevant Coursework: Machine Learning, Deep Learning, NLP, Data Structures & Algorithms) Tj
+ET
+BT
+/F2 12 Tf
+50 567 Td
+(Technical Skills) Tj
+ET
+BT
+/F1 10 Tf
+60 549 Td
+(Languages: Python, C++, SQL, R) Tj
+0 -14 Td
+(Machine Learning & AI: Scikit-learn, TensorFlow, PyTorch, Hugging Face, NLP, Computer Vision) Tj
+0 -14 Td
+(Data Science & Analytics: Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering) Tj
+0 -14 Td
+(Tools & Cloud: Git, Docker, AWS, MLflow, Linux, Streamlit, Jupyter) Tj
+ET
+BT
+/F2 12 Tf
+50 481 Td
+(Experience & Projects) Tj
+ET
+BT
+/F1 10 Tf
+60 463 Td
+(AI Resume Screening Engine: Built TF-IDF and BERT semantic search engine for matching candidate profiles.) Tj
+0 -14 Td
+(Customer Sentiment Analysis System: End-to-end NLP classification pipeline using Transformers.) Tj
+0 -14 Td
+(Predictive Maintenance Model: Developed Scikit-learn Random Forest regression model on IoT data.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001710 00000 n 
+0000001780 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1855
+%%EOF

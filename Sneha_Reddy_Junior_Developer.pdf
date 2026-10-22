@@ -1,0 +1,94 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1091 >>
+stream
+BT
+/F2 16 Tf
+50 750 Td
+(Sneha Reddy - Associate Software Engineer) Tj
+ET
+BT
+/F2 12 Tf
+50 725 Td
+(Contact Information) Tj
+ET
+BT
+/F1 10 Tf
+60 707 Td
+(Email: sneha.reddy@student.ac.in) Tj
+0 -14 Td
+(Phone: +91 99887 66554) Tj
+0 -14 Td
+(Location: Bangalore, India) Tj
+ET
+BT
+/F2 12 Tf
+50 653 Td
+(Education) Tj
+ET
+BT
+/F1 10 Tf
+60 635 Td
+(B.Sc in Computer Science - St. Joseph's College \(CGPA: 7.9/10\)) Tj
+0 -14 Td
+(Year of Graduation: 2024) Tj
+ET
+BT
+/F2 12 Tf
+50 595 Td
+(Technical Skills) Tj
+ET
+BT
+/F1 10 Tf
+60 577 Td
+(Languages: Python, C, Java, Basic SQL) Tj
+0 -14 Td
+(Web Basics: HTML, CSS, JavaScript, Flask) Tj
+0 -14 Td
+(Core Fundamentals: Object Oriented Programming \(OOP\), Data Structures, Git, MS Excel) Tj
+ET
+BT
+/F2 12 Tf
+50 523 Td
+(Experience & Projects) Tj
+ET
+BT
+/F1 10 Tf
+60 505 Td
+(Library Management System: Developed database-backed inventory system using Python and SQLite.) Tj
+0 -14 Td
+(Personal Portfolio Website: Responsive website using HTML, CSS, and JavaScript.) Tj
+0 -14 Td
+(Data Analysis Internship: Cleaned and summarized survey responses using Pandas and Excel.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001394 00000 n 
+0000001464 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1539
+%%EOF

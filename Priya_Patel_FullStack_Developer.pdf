@@ -1,0 +1,100 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1360 >>
+stream
+BT
+/F2 16 Tf
+50 750 Td
+(Priya Patel - Full Stack Web Developer) Tj
+ET
+BT
+/F2 12 Tf
+50 725 Td
+(Contact Information) Tj
+ET
+BT
+/F1 10 Tf
+60 707 Td
+(Email: priya.patel@gmail.com) Tj
+0 -14 Td
+(Phone: +91 98123 45678) Tj
+0 -14 Td
+(GitHub: github.com/priyapatel-dev) Tj
+0 -14 Td
+(Location: Pune, India) Tj
+ET
+BT
+/F2 12 Tf
+50 639 Td
+(Education) Tj
+ET
+BT
+/F1 10 Tf
+60 621 Td
+(B.E. in Information Technology - Pune Institute of Computer Technology \(CGPA: 8.7/10\)) Tj
+0 -14 Td
+(Year of Graduation: 2023) Tj
+0 -14 Td
+(Key Courses: Web Development, Database Management Systems, Computer Networks) Tj
+ET
+BT
+/F2 12 Tf
+50 567 Td
+(Technical Skills) Tj
+ET
+BT
+/F1 10 Tf
+60 549 Td
+(Languages: JavaScript, TypeScript, Python, HTML5, CSS3, SQL) Tj
+0 -14 Td
+(Frontend: React, Redux, Next.js, Tailwind CSS, Bootstrap) Tj
+0 -14 Td
+(Backend: Node.js, Express, Django, FastAPI, REST APIs) Tj
+0 -14 Td
+(Databases & DevOps: MongoDB, PostgreSQL, Redis, Docker, Git, AWS S3, CI/CD) Tj
+ET
+BT
+/F2 12 Tf
+50 481 Td
+(Experience & Projects) Tj
+ET
+BT
+/F1 10 Tf
+60 463 Td
+(E-Commerce SaaS Application: Full stack application with React, Node.js, Stripe and PostgreSQL.) Tj
+0 -14 Td
+(College Placement Portal: Built interactive student dashboard with real-time job application tracking.) Tj
+0 -14 Td
+(RESTful Microservices: Architected scalable authentication and profile APIs using FastAPI.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001663 00000 n 
+0000001733 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1808
+%%EOF
